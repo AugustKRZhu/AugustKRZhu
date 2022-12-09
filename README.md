@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AugustKRZhu
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning ML/DL related things
+- 🌱 I’m currently developing ML/DL related things and embedding systems
 - 💞️ I’m looking to collaborate on agile team
 - 📫 How to reach me ca.autopart@gmail.com
 
